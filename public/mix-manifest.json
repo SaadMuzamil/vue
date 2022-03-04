@@ -1,0 +1,9 @@
+{
+    "/js/app.js": "/js/app.js",
+    "/js/resource/js/components/welcome.js": "/js/resource/js/components/welcome.js",
+    "/js/resource/js/components/Card/list.js": "/js/resource/js/components/Card/list.js",
+    "/js/resource/js/components/Card/add.js": "/js/resource/js/components/Card/add.js",
+    "/js/resource/js/components/Card/edit.js": "/js/resource/js/components/Card/edit.js",
+    "/js/resource/js/components/Card/show.js": "/js/resource/js/components/Card/show.js",
+    "/css/app.css": "/css/app.css"
+}
