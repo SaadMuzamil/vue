@@ -166,7 +166,7 @@ var staticRenderFns = [
           ]),
           _vm._v(" "),
           _c("div", { staticClass: "card-body" }, [
-            _c("form", { attrs: { action: "/cards" } }, [
+            _c("form", { attrs: { action: "/" } }, [
               _c("div", { staticClass: "row" }, [
                 _c("div", { staticClass: "col-12 mb-2" }, [
                   _c("div", { staticClass: "form-group" }, [

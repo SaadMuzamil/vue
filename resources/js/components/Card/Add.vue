@@ -6,7 +6,7 @@
                     <h4>Add Card</h4>
                 </div>
                 <div class="card-body">
-                    <form action="/cards">
+                    <form action="/">
                         <div class="row">
                             <div class="col-12 mb-2">
                                 <div class="form-group">

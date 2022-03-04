@@ -12,7 +12,7 @@ export const routes = [
     },
     {
         name: 'cardList',
-        path: '/cards',
+        path: '/',
         component: CardList
     },
     {

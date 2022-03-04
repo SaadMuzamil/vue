@@ -4,7 +4,7 @@
             <div class="container-fluid">
                 <div class="collapse navbar-collapse">
                     <div class="navbar-nav">
-                        <router-link exact-active-class="active" to="/card" class="nav-item nav-link">Card</router-link>
+                        <router-link exact-active-class="active" to="/card" class="nav-item nav-link active">Card</router-link>
                     </div>
                 </div>
             </div>

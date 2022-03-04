@@ -5398,7 +5398,7 @@ var routes = [{
   component: Welcome
 }, {
   name: 'cardList',
-  path: '/cards',
+  path: '/',
   component: CardList
 }, {
   name: 'cardShow',
@@ -27973,7 +27973,7 @@ var render = function () {
               _c(
                 "router-link",
                 {
-                  staticClass: "nav-item nav-link",
+                  staticClass: "nav-item nav-link active",
                   attrs: { "exact-active-class": "active", to: "/card" },
                 },
                 [_vm._v("Card")]
